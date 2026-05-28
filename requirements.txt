@@ -1,0 +1,7 @@
+transformers>=4.40.0
+accelerate>=0.29.0
+tiktoken
+einops
+sentencepiece
+protobuf
+tqdm>=4.65.0
